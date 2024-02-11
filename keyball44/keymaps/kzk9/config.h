@@ -20,13 +20,13 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #pragma once
 
-#define TAPPIN_TERM 150
+#define TAPPING_TERM 140
 
 #define TAP_CODE_DELAY 5
 
 #define DYNAMIC_KEYMAP_LAYER_COUNT 5
 
-#define KEYBALL_CPI_DEFAULT 1100
+#define KEYBALL_CPI_DEFAULT 500
 #define KEYBALL_SCROLL_DEV_DEFAULT 4
 
 #define POINTING_DEVICE_AUTO_MOUSE_ENABLE
